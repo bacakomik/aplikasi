@@ -1,6 +1,5 @@
 {"version":30,
 "name_package":"co.bcmnga.bckomik",
-"status": 22,
-
+"status": 22
 }
-//200 = normal, 503 = maintance, 22 restore
+
