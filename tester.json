@@ -1,0 +1,21 @@
+{
+error: false,
+message: "",
+openTrades: [
+{
+openTime: "01/08/2021 13:40",
+symbol: "NZDCAD",
+action: "Buy",
+sizing: {
+type: "lots",
+value: "0.01"
+},
+openPrice: 0.92172,
+tp: 0.92347,
+sl: 0.91886,
+profit: -0.25,
+pips: -3.1,
+swap: 0
+}
+]
+}
