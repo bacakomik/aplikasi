@@ -1,0 +1,15 @@
+{
+error: false,
+message: "",
+history: [
+{
+openTime: "01/08/2021 13:40",
+closeTime: "01/08/2021 17:33",
+symbol: "NZDCAD",
+action: "Buy",
+sizing: {
+type: "lots",
+value: "0.01"
+}
+]
+}
