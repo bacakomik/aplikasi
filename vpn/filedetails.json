@@ -1,5 +1,28 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>"},
+    {"id":0,"file":"client dev tun proto udp ... <tls-auth>
+#
+# 2048 bit OpenVPN static key (Server Agent)
+#
+-----BEGIN OpenVPN Static key V1-----
+94f9edf77f754c55543e34b0a3c52a12
+8e82ffbd0d4c417ae0134dd3dfb548c7
+1433008b5f45f79e59a0724f582a198d
+0757834779a6ee43a3b3a560769788cb
+60a6ffcafd664698e66889375a714312
+a67dba7efc1e52dbbe9694224de26b91
+df7ab62a52d1a068b4216c5e28c2dffb
+ba31f61b8a1a6e89b9b7251c5fe371cd
+f9de97428d8fc4bbc92c9a0c81074b44
+0a73260b65effd63465ac1d9dc996c97
+1633e68b4c4c245bf8b668e78faa6011
+53f7fe56b293754e12c61e0def67f4a7
+314404242fc19342dd0ad7818309e38a
+f9ce18d4609c99dd776763f45e8f6150
+798fb7601688ec4a9c6a30a7cff9ec5d
+ff62dc594af9ee698a96482743808eca
+-----END OpenVPN Static key V1-----
+</tls-auth>
+"},
     {"id":1,"file":""}]
 }
