@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client dev tun proto udp ... <tls-auth>
+    {"id":0,"file":"client dev tun proto udp  <tls-auth>
 
 -----BEGIN OpenVPN Static key V1-----
 94f9edf77f754c55543e34b0a3c52a12
